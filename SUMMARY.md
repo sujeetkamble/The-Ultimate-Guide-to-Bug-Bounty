@@ -1,0 +1,32 @@
+# Table of contents
+
+* [🫥 Home](README.md)
+
+## 🔍 Recon Methodology
+
+* [IP address/range Enumeration](recon-methodology/ip-address-range-enumeration.md)
+* [Port Enumeration](recon-methodology/port-enumeration.md)
+* [Root Domain Enumeration](recon-methodology/root-domain-enumeration.md)
+* [Subdomain Enumeration](recon-methodology/subdomain-enumeration/README.md)
+  * [Passive Subdomain Sources](recon-methodology/subdomain-enumeration/passive-subdomain-sources.md)
+* [Directory / Endpoints Enumeration](recon-methodology/directory-endpoints-enumeration.md)
+* [Parameter Enumeration](recon-methodology/parameter-enumeration.md)
+* [Secret Finding](recon-methodology/secret-finding/README.md)
+  * [Github Secret](recon-methodology/secret-finding/github-secret.md)
+
+## 💥 Attacks
+
+* [Path Traversal](attacks/path-traversal.md)
+
+## Group 1
+
+* [⚒️ Tools](group-1/tools.md)
+
+## ℹ️ Extras
+
+* [Platforms](extras/platforms.md)
+* [Practice Websites](extras/practice-websites.md)
+* [Cool Websites](extras/cool-websites.md)
+* [Chrome/Firefox Extensions](extras/chrome-firefox-extensions.md)
+* [Peoples](extras/peoples.md)
+* [Books](extras/books.md)
