@@ -26,7 +26,7 @@
 ## ℹ️ Extras
 
 * [Platforms](extras/platforms.md)
-* [Practice Websites](extras/practice-websites.md)
+* [Practice](extras/practice.md)
 * [Cool Websites](extras/cool-websites.md)
 * [Chrome/Firefox Extensions](extras/chrome-firefox-extensions.md)
 * [Peoples](extras/peoples.md)

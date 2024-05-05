@@ -2,9 +2,9 @@
 description: This are the list of CTF/Challenge to strengthen up your Web Security Skills
 ---
 
-# Practice Websites
+# Practice
 
-
+## Websites
 
 | Name                         | URL                                                                                              |
 | ---------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -17,3 +17,10 @@ description: This are the list of CTF/Challenge to strengthen up your Web Securi
 | Flaws 2                      | [http://flaws2.cloud/](http://flaws2.cloud/)                                                     |
 | Dojo by YesWeHack            | [http://dojo-yeswehack.com](http://dojo-yeswehack.com)                                           |
 
+## Labs&#x20;
+
+| Name             | Link                                                                                   |   |
+| ---------------- | -------------------------------------------------------------------------------------- | - |
+| Owasp Juice Shop | [https://owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/) |   |
+|                  |                                                                                        |   |
+|                  |                                                                                        |   |
