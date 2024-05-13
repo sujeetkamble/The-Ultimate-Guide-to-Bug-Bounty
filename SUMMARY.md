@@ -31,3 +31,7 @@
 * [Chrome/Firefox Extensions](extras/chrome-firefox-extensions.md)
 * [Peoples](extras/peoples.md)
 * [Books](extras/books.md)
+
+***
+
+* [🙏 Thanks](thanks.md)
