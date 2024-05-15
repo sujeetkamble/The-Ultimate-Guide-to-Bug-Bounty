@@ -17,6 +17,7 @@ description: This are the list of CTF/Challenge to strengthen up your Web Securi
 | Flaws 2                           | [http://flaws2.cloud/](http://flaws2.cloud/)                                                     |
 | Dojo by YesWeHack                 | [http://dojo-yeswehack.com](http://dojo-yeswehack.com)                                           |
 | Acunetix Vulnerable test websites | [http://www.vulnweb.com](http://www.vulnweb.com/)                                                |
+| Kontra's Application Security     | [https://application.security/](https://application.security/)                                   |
 
 ## Labs&#x20;
 
