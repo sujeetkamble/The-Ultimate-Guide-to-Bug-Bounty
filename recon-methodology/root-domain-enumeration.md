@@ -38,6 +38,8 @@ Crunchbase is another great alternative for finding acquisitions but requires a 
 
 [https://chatgpt.com](https://chatgpt.com/)
 
+[Google](https://www.google.com)
+
 You can leverage OpenAI's <mark style="color:yellow;">ChatGPT</mark> for getting a list of acquisitions that are owned by a particular organization. Below is the example of getting acquisitions of Tesla
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
