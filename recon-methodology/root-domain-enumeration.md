@@ -22,7 +22,7 @@ These are not 100% accurate results, as they contain false positives
 
 [https://www.whoxy.com](https://www.whoxy.com/)
 
-(reverse WHOIS) To get related domains with the Company as : Dell Inc.
+(reverse WHOIS) To get related domains with the Company as : Dell Inc. {click this}
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ These are not 100% accurate results, as they contain false positives
 
 [https://www.crunchbase.com](https://www.crunchbase.com/)
 
-Crunchbase is another great alternative for finding acquisitions but requires a paid subscription to view all the acquisitions. The trial version allows viewing some of the acquisitions.
+(Acquisitions) Crunchbase is another great alternative for finding acquisitions but requires a paid subscription to view all the acquisitions. The trial version allows viewing some of the acquisitions.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,9 +38,7 @@ Crunchbase is another great alternative for finding acquisitions but requires a 
 
 [https://chatgpt.com](https://chatgpt.com/)
 
-[Google](https://www.google.com)
-
-You can leverage OpenAI's <mark style="color:yellow;">ChatGPT</mark> for getting a list of acquisitions that are owned by a particular organization. Below is the example of getting acquisitions of Tesla
+(Acquisitions) You can leverage OpenAI's <mark style="color:yellow;">ChatGPT</mark> for getting a list of acquisitions that are owned by a particular organization. Below is the example of getting acquisitions of Tesla
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
